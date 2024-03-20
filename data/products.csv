@@ -1,0 +1,5 @@
+referenceKey,name,state,categories,color,size,imageSource,price,tax,currencyCode,countryCode,quantity,warehouse,sustainable
+THS1234,Tom Tailor Shirt,live,"Men,Clothing,Shirts",blue,"S,M,L","https://cdn.aboutstatic.com/file/images/7eaab7a1547c73c286d74068515fb5fc.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",3990,19.0,EUR,de,10,WarehouseDE,true
+THS1235,Levis T-Shirt,live,"Men,Clothing,Shirts",gray,"M,XL","https://cdn.aboutstatic.com/file/images/68bf124a0517bffaa5fe1dc7ac8707db.jpg",3990,19.0,EUR,de,100,WarehouseDE,false
+THS1236,Tom Tailor Shirt,live,"Men,Clothing,Shirts",blue,"S,M,XL","https://cdn.aboutstatic.com/file/images/f7268d764b2b00648da7edb8f5fb5e47.jpg",3990,19.0,EUR,de,20,WarehouseDE,false
+THS1237,Tom Tailor Shirt,live,"Men,Clothing,Shirts",gray,S,"https://cdn.aboutstatic.com/file/images/838cf719621c4727f5927aa812c866cc.jpg",3990,19.0,EUR,de,5,WarehouseDE,true
