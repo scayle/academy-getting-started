@@ -1,8 +1,28 @@
-# SCAYLE Commerce Engine - Getting Started Course
+![scayle-logo-cr](https://cdn-prod.scayle.com/public/media/general/SCAYLE-Commerce-Engine-header.png)
 
-Welcome to the SCAYLE Commerce Engine Getting Started Tutorial! This tutorial will guide you through the process of setting up and using the SCAYLE Commerce Engine for your e-commerce projects.
+<h1 align="center">
+  Academy - Getting Started Course
+</h1>
 
-This repository is the finished code that will be produced in the code with minor adjustments.
+<h4 align="center">
+  <a href="https://scayle.dev">Documentation</a> |
+  <a href="https://www.scayle.com/">Website</a>
+</h4>
+
+<p align="center">
+  The SCAYLE <strong>Academy - Getting Started Course</strong> is the companion code for the course in the SCAYLE Academy.
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="SCAYLE's **SCAYLE Academy - Getting Started is released under the MIT license." /></a>
+</p>
+
+## Getting Started
+
+Visit the [Getting Started Course in the Academy]([https://scayle.dev/en/dev/admin-api/sdk-setup](https://academy.scayle.dev/course_overview/getting-started-tech)) and follow the course. 
+
+## Requirements
+
+* Recent NodeJS version
 
 ## Installation
 
@@ -10,7 +30,21 @@ This repository is the finished code that will be produced in the code with mino
 2. Copy the .env example `cp .env.example .env`
 3. Follow instructions in .env to fill in credentials
 4. Use VSCode to start `001_validateConnection` or run `src/node 001_validateConnection`
+## What is Scayle ?
+
+[SCAYLE](https://scayle.com) is a full-featured e-commerce software solution that comes with flexible APIs. Within SCAYLE, you can manage all aspects of your shop, such as products, stocks, customers, and transactions.
+
+Learn more about [Scayles’s architecture](https://scayle.dev/en/dev/getting-started/introduction) and [commerce modules](https://scayle.dev/en/dev/getting-started/introduction) in the Docs.
+
+##  Community
+
+The community and core teams are available in [GitHub Discussions](https://github.com/scayle/admin-api-php-sdk/discussions), where you can ask for support, discuss roadmap, and share ideas.
+
+## Other channels
+
+- [GitHub Issues](https://github.com/scayle/admin-api-php-sdk/issues)
+- [LinkedIn](https://www.linkedin.com/company/scaylecommerce/)
+- [Jobs](https://careers.smartrecruiters.com/ABOUTYOUGmbH/scayle)
 
 ## License
-
-The SCAYLE Commerce Engine is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT](https://opensource.org/license/mit/)
